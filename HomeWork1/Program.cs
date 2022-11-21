@@ -6,8 +6,7 @@ namespace HomeWork1
     {
         static void Main(string[] args)
         {
-            //Output Hello World.
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Feature branch 3 - development 1");
         }
     }
 }
